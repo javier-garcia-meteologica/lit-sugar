@@ -1,0 +1,4 @@
+packages:
+  - 'lit-sugar'
+  - 'x-portal'
+  - 'example'

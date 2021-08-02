@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ESNext",
+    "lib": ["es2018", "dom"],
+    "moduleResolution": "Node",
+    "strict": true,
+    "strictNullChecks": true,
+    "strictBindCallApply": true,
+    "allowSyntheticDefaultImports": true,
+    "noUncheckedIndexedAccess": true,
+    "noImplicitThis": true,
+    "allowJs": true,
+    "resolveJsonModule": true
+  }
+}
